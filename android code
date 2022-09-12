@@ -1,0 +1,3 @@
+<View
+android:id="@+id/canvas"
+android:background="#E5E5E5" />
